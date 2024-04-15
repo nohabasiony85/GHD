@@ -1,0 +1,15 @@
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/bin/Debug/net8.0/ProductManagement.App.deps.json
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/bin/Debug/net8.0/ProductManagement.App.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/bin/Debug/net8.0/ProductManagement.App.pdb
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/bin/Debug/net8.0/ProductManagement.Domain.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/bin/Debug/net8.0/ProductManagement.Domain.pdb
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductManagement.App.csproj.AssemblyReference.cache
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductManagement.App.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductManagement.App.AssemblyInfoInputs.cache
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductManagement.App.AssemblyInfo.cs
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductManagement.App.csproj.CoreCompileInputs.cache
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductM.40F77376.Up2Date
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductManagement.App.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/refint/ProductManagement.App.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ProductManagement.App.pdb
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/Debug/net8.0/ref/ProductManagement.App.dll

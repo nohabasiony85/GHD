@@ -1,0 +1,15 @@
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductManagement.Infrastructure.csproj.AssemblyReference.cache
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductManagement.Infrastructure.AssemblyInfoInputs.cache
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductManagement.Infrastructure.AssemblyInfo.cs
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/bin/Debug/net8.0/ProductManagement.Infrastructure.deps.json
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/bin/Debug/net8.0/ProductManagement.Infrastructure.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/bin/Debug/net8.0/ProductManagement.Infrastructure.pdb
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/bin/Debug/net8.0/ProductManagement.Domain.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/bin/Debug/net8.0/ProductManagement.Domain.pdb
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductM.6D34A66C.Up2Date
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductManagement.Infrastructure.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/refint/ProductManagement.Infrastructure.dll
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ProductManagement.Infrastructure.pdb
+/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/Debug/net8.0/ref/ProductManagement.Infrastructure.dll
