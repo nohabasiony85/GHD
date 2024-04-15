@@ -21,5 +21,5 @@ The API will be available at http://localhost:5202.
 Explore and test the API endpoints using Swagger documentation available at http://localhost:5202/swagger/index.html
 
 # Logging
-API requests, responses, and errors are logged to the console.
+Console Logging support using Serilog
 
