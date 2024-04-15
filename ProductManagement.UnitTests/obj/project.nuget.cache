@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffUZiibgAGftJfbZ9qCBptNIUJm258+ANc/qrAZxoTurxmX5w0VybsomeOJ7SR9r3zkpePdiJZZisftxVqxLeg==",
+  "dgSpecHash": "0P8HXOGeFOmBqmh9Qx155PT8PMYw/ZZdlMxfrnGc8/uBP3dWgogR6FSrafvdkXxYWrtj0YujWgD/amlurI6O/w==",
   "success": true,
-  "projectFilePath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.UnitTests/ProductManagement.UnitTests.csproj",
+  "projectFilePath": "/Volumes/Untitled/GHD/GHD/ProductManagement.UnitTests/ProductManagement.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/nohabasiony/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/nohabasiony/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",

@@ -1,0 +1,141 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.vscode/
+*.suo
+*.sln
+*.user
+*.userprefs
+*_i.c
+*_p.c
+*.pidb
+*.log
+*.sqlite
+*.sqlite3
+*.sdf
+*.ipch/
+*.ncb
+*.dbmdl
+*.pch
+*.obj
+*.cache
+*.ilk
+*.exp
+*.pdb
+*.log
+*.iobj
+*.ilc
+*.asm
+*.asmx
+*.res
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.tmp_proj.user
+*.scc
+*.plg
+*.shproj
+*.userosscache
+*.userstate
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nuget/
+*.nupkg
+*.paket/paket-files/
+paket-files/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Test Results
+TestResults/
+
+# Resharper
+_ReSharper*/
+
+# NCrunch
+_NCrunch_*
+
+# OpenCover
+OpenCover/
+reports/
+
+# DotCover
+*.dotCover
+
+# Coverlet
+coverage/
+
+# ReportGenerator
+report/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of PackageReference (#1067)
+*.paket/paket-files/
+paket-files/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/nuget,windows,visualstudio

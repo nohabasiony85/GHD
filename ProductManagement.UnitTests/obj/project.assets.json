@@ -3340,11 +3340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.UnitTests/ProductManagement.UnitTests.csproj",
+      "projectUniqueName": "/Volumes/Untitled/GHD/GHD/ProductManagement.UnitTests/ProductManagement.UnitTests.csproj",
       "projectName": "ProductManagement.UnitTests",
-      "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.UnitTests/ProductManagement.UnitTests.csproj",
+      "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.UnitTests/ProductManagement.UnitTests.csproj",
       "packagesPath": "/Users/nohabasiony/.nuget/packages/",
-      "outputPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.UnitTests/obj/",
+      "outputPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nohabasiony/.nuget/NuGet/NuGet.Config"
@@ -3359,8 +3359,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.API/ProductManagement.API.csproj": {
-              "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.API/ProductManagement.API.csproj"
+            "/Volumes/Untitled/GHD/GHD/ProductManagement.API/ProductManagement.API.csproj": {
+              "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.API/ProductManagement.API.csproj"
             }
           }
         }

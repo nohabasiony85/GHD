@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hMaPE+XPKBFFS79xsTHVzB2rCNDgryQDIQTzYjYpm4B59iiESeKPktj0yCJ64qaS2amRyY48J+gl9bdtsgjTxQ==",
+  "dgSpecHash": "S51ldT9shJl0LefdP4xxlLRSLwp7a+Qt5xav4L1dOPz3SMs9HlDY72Xk8oDAvO1ewu9m3n5Ds8uZPfwFrtxHNw==",
   "success": true,
-  "projectFilePath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/ProductManagement.App.csproj",
+  "projectFilePath": "/Volumes/Untitled/GHD/GHD/ProductManagement.App/ProductManagement.App.csproj",
   "expectedPackageFiles": [
     "/Users/nohabasiony/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
     "/Users/nohabasiony/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",

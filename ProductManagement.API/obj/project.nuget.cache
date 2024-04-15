@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Nuild+A6cV7zG9wNAbgHgZQJPWO3iiidwENAY87666SbicNyJE1phHuVc0nLBpOg0Ho7th9bZzw3zzek7gMVg==",
+  "dgSpecHash": "f1L8Wr8UdfldmBZKZhlkLYkZYVL8udtGWakPU8z5ad6wYtk/KpauoigG/2qxTVypPD4Y2i6pyZdd3tMoe3gHnw==",
   "success": true,
-  "projectFilePath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.API/ProductManagement.API.csproj",
+  "projectFilePath": "/Volumes/Untitled/GHD/GHD/ProductManagement.API/ProductManagement.API.csproj",
   "expectedPackageFiles": [
     "/Users/nohabasiony/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
     "/Users/nohabasiony/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

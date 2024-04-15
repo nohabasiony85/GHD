@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RiPEjFI8tkfEzvM63zQaCYNkLp1oOc+9GxsnvvOucBDtparAkLp5U0Gs0ue0tlCX/APbTN+GXkASoHFeR3sd5A==",
+  "dgSpecHash": "qHr22qekZkRTIX9m9IrKD6kEFtqhMUrp2G5ht6i2z3hbsTGVrr9C8gbCpr6To1cjCszKorObjwEAvnMzA/VnCA==",
   "success": true,
-  "projectFilePath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj",
+  "projectFilePath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

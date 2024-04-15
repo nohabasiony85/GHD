@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/ProductManagement.App.csproj": {}
+    "/Volumes/Untitled/GHD/GHD/ProductManagement.App/ProductManagement.App.csproj": {}
   },
   "projects": {
-    "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/ProductManagement.App.csproj": {
+    "/Volumes/Untitled/GHD/GHD/ProductManagement.App/ProductManagement.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/ProductManagement.App.csproj",
+        "projectUniqueName": "/Volumes/Untitled/GHD/GHD/ProductManagement.App/ProductManagement.App.csproj",
         "projectName": "ProductManagement.App",
-        "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/ProductManagement.App.csproj",
+        "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.App/ProductManagement.App.csproj",
         "packagesPath": "/Users/nohabasiony/.nuget/packages/",
-        "outputPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.App/obj/",
+        "outputPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.App/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nohabasiony/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj": {
-                "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj"
+              "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj": {
+                "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj": {
+    "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj",
+        "projectUniqueName": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj",
         "projectName": "ProductManagement.Domain",
-        "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj",
+        "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj",
         "packagesPath": "/Users/nohabasiony/.nuget/packages/",
-        "outputPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/obj/",
+        "outputPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nohabasiony/.nuget/NuGet/NuGet.Config"

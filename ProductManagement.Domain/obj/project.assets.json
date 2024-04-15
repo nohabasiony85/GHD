@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj",
+      "projectUniqueName": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj",
       "projectName": "ProductManagement.Domain",
-      "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj",
+      "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj",
       "packagesPath": "/Users/nohabasiony/.nuget/packages/",
-      "outputPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/obj/",
+      "outputPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nohabasiony/.nuget/NuGet/NuGet.Config"

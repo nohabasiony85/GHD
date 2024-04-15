@@ -591,11 +591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/ProductManagement.Infrastructure.csproj",
+      "projectUniqueName": "/Volumes/Untitled/GHD/GHD/ProductManagement.Infrastructure/ProductManagement.Infrastructure.csproj",
       "projectName": "ProductManagement.Infrastructure",
-      "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/ProductManagement.Infrastructure.csproj",
+      "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Infrastructure/ProductManagement.Infrastructure.csproj",
       "packagesPath": "/Users/nohabasiony/.nuget/packages/",
-      "outputPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Infrastructure/obj/",
+      "outputPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nohabasiony/.nuget/NuGet/NuGet.Config"
@@ -610,8 +610,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj": {
-              "projectPath": "/Volumes/Untitled/GHD/ProductManagement/ProductManagement.Domain/ProductManagement.Domain.csproj"
+            "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj": {
+              "projectPath": "/Volumes/Untitled/GHD/GHD/ProductManagement.Domain/ProductManagement.Domain.csproj"
             }
           }
         }
