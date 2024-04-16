@@ -6,7 +6,6 @@ obj/
 .vs/
 *.vscode/
 *.suo
-*.sln
 *.user
 *.userprefs
 *_i.c
@@ -54,24 +53,11 @@ obj/
 *.paket/paket-files/
 paket-files/
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
 # User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
-
-# VS Code
-.vscode/
-
-# Test Results
-TestResults/
-
-# Resharper
-_ReSharper*/
 
 # NCrunch
 _NCrunch_*

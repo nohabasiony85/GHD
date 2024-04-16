@@ -1,6 +1,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using ProductManagement.App.Products.CreateProduct;
+using ProductManagement.App.Products.DeleteProduct;
 using ProductManagement.App.Products.GetAllProduct;
 using ProductManagement.App.Products.GetProduct;
 using ProductManagement.App.Products.UpdateProduct;
@@ -62,4 +63,13 @@ public class ProductsController(IMediator mediator) : ControllerBase
 
         return NoContent();
     }
+    
+    // DELETE: api/products/{id}
+    [HttpDelete("api/products/{id:guid}")]
+    public async Task<ActionResult> Delete(Guid id)
+    {
+        await mediator.Send(new DeleteProductByIdCommand(id));
+        return Ok();
+    }
+
 }
